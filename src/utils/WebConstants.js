@@ -11,9 +11,9 @@ export const fielNotes = 'notes';
 // remove offer 
 export const setDefaultValue = (initObj) => {
     initObj = {
-        username: 'Logistic Infotech PVT. LTD.',
-        email: 'li@gmail.com',
-        phone: '9898989898',
+        username: 'pankaj',
+        email: 'aaa@gmail.com',
+        phone: '0000000000',
         sex: 'male',
         favoritecolor: 'Blue',
         employed: true,
